@@ -19,3 +19,7 @@ Here are some ideas to get you started:
 My name is Radley, and I'm a WordPress Developer with 19 years of experience in web development.
 
 I'm proficient with many design and development tools and maintain several Unix-based web servers. My day-to-day work involves maintaining hosted websites for clients, developing custom themes and plugins, and optimizing websites for speed and performance.
+
+I am the owner of [ZingMap](https://zingmap.com/) where I provide managed WordPress hosting to my customers.
+
+I'm also the Technical Director at [Alchemy + Aim](https://alchemyandaim.com/) where I manage custom projects and provide development. If you are looking for custom development, I highly recommend Alchemy + Aim.
