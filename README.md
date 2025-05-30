@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# About Radley (RadGH)
+# About Me
 
 My name is Radley, and I'm a WordPress Developer with 19 years of experience in web development.
 
