@@ -1,7 +1,6 @@
-## Hi there 👋
-
 <!--
-**RadGH/RadGH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**RadGH/RadGH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile:
+https://github.com/RadGH
 
 Here are some ideas to get you started:
 
@@ -14,3 +13,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# About Radley (RadGH)
+
+My name is Radley, and I'm a WordPress Developer with 19 years of experience in web development.
+
+I'm proficient with many design and development tools and maintain several Unix-based web servers. My day-to-day work involves maintaining hosted websites for clients, developing custom themes and plugins, and optimizing websites for speed and performance.
