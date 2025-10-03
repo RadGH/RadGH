@@ -33,6 +33,7 @@ My choice of **development tools** includes:
 - WinSCP
 - PuTTY
 - Notepad++
+- GitHub Copilot
 
 I am experienced with **design tools** including:
 - Photoshop (Graphic design)
