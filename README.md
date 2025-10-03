@@ -22,6 +22,8 @@ I'm proficient with many design and development tools and maintain several Unix-
 
 [<img src="button-portfolio.png" alt="View my portfolio and resume" height="40">](https://radleysustaire.com/) [<img src="button-contact-me.png" alt="Contact me through ZingMap" height="40">](https://zingmap.com/contact/)
 
+<a href="#" class="btn btn-block">Test button</a>
+
 ## Work Experience
 
 I am the owner of [ZingMap](https://zingmap.com/) where I provide managed WordPress hosting to my customers.
