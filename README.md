@@ -16,10 +16,26 @@ Here are some ideas to get you started:
 
 # About Me
 
-My name is Radley, and I'm a WordPress Developer with 19 years of experience in web development.
+My name is Radley, and I'm a WordPress Developer with 19 years of experience in web development. I started building websites as a freelancer in 2007. I started using WordPress as my platform of choice in 2013. I've also built computer software and even a video game. I also like to dabble in design and enjoy painting in acrylic and oils.
 
-I'm proficient with many design and development tools and maintain several Unix-based web servers. My day-to-day work involves maintaining hosted websites for clients, developing custom themes and plugins, and optimizing websites for speed and performance.
+I'm proficient with many design and development tools and maintain several Unix-based web servers on Cloudways, Flywheel, WPEngine, and Rackspace. My day-to-day work involves maintaining hosted websites for clients, developing custom themes and plugins, and optimizing websites for speed and performance.
+
+## Work Experience
 
 I am the owner of [ZingMap](https://zingmap.com/) where I provide managed WordPress hosting to my customers.
 
-I'm also the Technical Director at [Alchemy + Aim](https://alchemyandaim.com/) where I manage custom projects and provide development. If you are looking for custom development, I highly recommend Alchemy + Aim.
+I'm also the Technical Director at [Alchemy + Aim](https://alchemyandaim.com/) where I plan and manage custom projects, lead other developers, and provide development.
+
+## Software Experience
+
+My choice of **development tools** includes:
+- PHPStorm
+- WinSCP
+- PuTTY
+- Notepad++
+
+I am experienced with **design tools** including:
+- Photoshop (Graphic design)
+- Figma (Mockups)
+- Inkscape (Logo design)
+- Upscayl (Image upscaling)
