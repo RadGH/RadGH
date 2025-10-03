@@ -20,6 +20,8 @@ My name is Radley, and I'm a WordPress Developer with 19 years of experience in 
 
 I'm proficient with many design and development tools and maintain several Unix-based web servers on Cloudways, Flywheel, WPEngine, and Rackspace. My day-to-day work involves maintaining hosted websites for clients, developing custom themes and plugins, and optimizing websites for speed and performance.
 
+[<img src="button-portfolio.png" alt="View my portfolio and resume" height="40">](https://radleysustaire.com/) [<img src="button-contact-me.png" alt="Contact me through ZingMap" height="40">](https://zingmap.com/contact/)
+
 ## Work Experience
 
 I am the owner of [ZingMap](https://zingmap.com/) where I provide managed WordPress hosting to my customers.
