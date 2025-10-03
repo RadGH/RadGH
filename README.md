@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 # About Me
 
-My name is Radley, and I'm a WordPress Developer with 19 years of experience in web development. I started building websites as a freelancer in 2007. I started using WordPress as my platform of choice in 2013. I've also built computer software and even a video game. I also like to dabble in design and enjoy painting in acrylic and oils.
+My name is Radley, and I'm a WordPress Developer with 19 years of experience in web development. I started building websites as a freelancer in 2007. I started using WordPress as my platform of choice in 2013. I've also built computer software and even a video game. I also like to dabble in design and enjoy painting in acrylic, oils, and gouache.
 
 I'm proficient with many design and development tools and maintain several Unix-based web servers on Cloudways, Flywheel, WPEngine, and Rackspace. My day-to-day work involves maintaining hosted websites for clients, developing custom themes and plugins, and optimizing websites for speed and performance.
 
